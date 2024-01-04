@@ -1,0 +1,36 @@
+{
+    "players": [
+        {
+            "Almazazaza": {
+                "banned": false,
+                "banDate": "none",
+                "status": "developer"
+            },
+            "Owmazek": {
+                "banned": false,
+                "banDate": "none",
+                "status": "developer"
+            },
+            "1": {
+                "banned": false,
+                "banDate": "none",
+                "status": "developer"
+            },
+            "Kitik": {
+                "banned": false,
+                "banDate": "none",
+                "status": "verificated"
+            },
+            "Faerych": {
+                "banned": false,
+                "banDate": "none",
+                "status": "verificated"
+            },
+            "Kurkursenya": {
+                "banned": false,
+                "banDate": "none",
+                "status": "verificated"
+            }
+        }
+    ]
+}

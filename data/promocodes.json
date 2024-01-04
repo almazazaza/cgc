@@ -1,0 +1,78 @@
+{
+    "promocodes": [
+        {
+            "Kitik48": {
+                "item": "background",
+                "name": "chromakey",
+                "count": 1,
+                "date": "none"
+            },
+            "Halloween2023": {
+                "item": "easteregg",
+                "name": "halloween2023",
+                "count": 0,
+                "date": "31-10-2023"
+            },
+            "ChickenChel": {
+                "item": "case",
+                "name": "rainbow",
+                "count": 5,
+                "date": "none"
+            },
+            "BNQRWFN": {
+                "item": "coin",
+                "name": "chickengun",
+                "count": 5000,
+                "date": "none"
+            },
+            "NWRRPOS": {
+                "item": "case",
+                "name": "starter",
+                "count": 5,
+                "date": "none"
+            },
+            "BAR100REN": {
+                "item": "coin",
+                "name": "stalker",
+                "count": 50000,
+                "date": "none"
+            },
+            "SPTDARK": {
+                "item": "perk",
+                "name": "doublecoin",
+                "count": 5,
+                "date": "none"
+            },
+            "DARUMAR": {
+                "item": "case",
+                "name": "concept",
+                "count": 3,
+                "date": "none"
+            },
+            "NewYear2024": {
+                "item": "coin",
+                "name": "snowflake",
+                "count": 500,
+                "date": "22-01-2024"
+            },
+            "BRGDDOS": {
+                "item": "case",
+                "name": "cat",
+                "count": 2,
+                "date": "none"
+            },
+            "YTCNVOR": {
+                "item": "coin",
+                "name": "chickengun",
+                "count": 2500000,
+                "date": "none"
+            },
+            "YTSFVOR": {
+                "item": "coin",
+                "name": "snowflake",
+                "count": 3500,
+                "date": "none"
+            }
+        }
+    ]
+}
