@@ -90,6 +90,12 @@
                 "name": "chickengun",
                 "count": 100000,
                 "date": "16-01-2024"
+            },
+            "NY2024End": {
+                "item": "coin",
+                "name": "snowflake",
+                "count": 2500,
+                "date": "22-01-2024"
             }
         }
     ]
