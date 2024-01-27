@@ -31,6 +31,12 @@
                 "banDate": "none",
                 "status": "verificated"
             }
+            ,
+            "nikit24": {
+                "banned": true,
+                "banDate": "10-02-2024",
+                "status": "banned"
+            }
         }
     ]
 }
