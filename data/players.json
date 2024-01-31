@@ -31,9 +31,9 @@
                 "banDate": "none",
                 "status": "verificated"
             },
-            "nikit24": {
-                "banned": false,
-                "banDate": "10-02-2024",
+            "nikit24k": {
+                "banned": true,
+                "banDate": "29-02-2024",
                 "status": "banned"
             }
         }
