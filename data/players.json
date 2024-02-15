@@ -40,6 +40,11 @@
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
+            },
+            "ArcumaGamess": {
+                "banned": true,
+                "banDate": "none",
+                "status": "banned"
             }
         }
     ]
