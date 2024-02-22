@@ -96,6 +96,12 @@
                 "name": "snowflake",
                 "count": 2500,
                 "date": "22-01-2024"
+            },
+            "IZRPMYO": {
+                "item": "perk",
+                "name": "doublecoin",
+                "count": 10,
+                "date": "none"
             }
         }
     ]
