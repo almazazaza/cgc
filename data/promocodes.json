@@ -73,11 +73,11 @@
                 "count": 3500,
                 "date": "none"
             },
-            "NOPROMO": {
-                "item": "none",
-                "name": "none",
-                "count": 0,
-                "date": "locked"
+            "1Coin": {
+                "item": "coin",
+                "name": "chickengun",
+                "count": 1,
+                "date": "31-03-2024"
             },
             "EETOYKA": {
                 "item": "perk",
