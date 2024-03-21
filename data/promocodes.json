@@ -108,6 +108,12 @@
                 "name": "cat",
                 "count": 10,
                 "date": "17-03-2024"
+            },
+            "100CatCase": {
+                "item": "case",
+                "name": "cat",
+                "count": 100,
+                "date": "22-03-2024"
             }
         }
     ]
