@@ -4,7 +4,7 @@
             "Almazazaza": {
                 "banned": false,
                 "banDate": "none",
-                "status": "banned"
+                "status": "developer"
             },
             "Owmazek": {
                 "banned": false,
@@ -42,6 +42,11 @@
                 "status": "banned"
             },
             "ArcumaGamess": {
+                "banned": true,
+                "banDate": "none",
+                "status": "banned"
+            },
+            "nikitas77009": {
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
