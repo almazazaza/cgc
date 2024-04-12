@@ -12,9 +12,9 @@
                 "status": "developer"
             },
             "1": {
-                "banned": false,
+                "banned": true,
                 "banDate": "none",
-                "status": "developer"
+                "status": "banned"
             },
             "Kitik": {
                 "banned": false,

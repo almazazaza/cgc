@@ -65,13 +65,13 @@
                 "item": "coin",
                 "name": "chickengun",
                 "count": 2500000,
-                "date": "none"
+                "date": "locked"
             },
             "YTSFVOR": {
                 "item": "coin",
                 "name": "snowflake",
                 "count": 3500,
-                "date": "none"
+                "date": "locked"
             },
             "1Coin": {
                 "item": "coin",
