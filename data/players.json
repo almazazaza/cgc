@@ -2,9 +2,9 @@
     "players": [
         {
             "Almazazaza": {
-                "banned": false,
+                "banned": true,
                 "banDate": "none",
-                "status": "developer"
+                "status": "banned"
             },
             "Owmazek": {
                 "banned": false,
@@ -12,9 +12,9 @@
                 "status": "developer"
             },
             "1": {
-                "banned": true,
+                "banned": false,
                 "banDate": "none",
-                "status": "banned"
+                "status": "developer"
             },
             "Kitik": {
                 "banned": false,
