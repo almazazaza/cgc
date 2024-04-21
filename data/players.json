@@ -31,6 +31,16 @@
                 "banDate": "none",
                 "status": "verificated"
             },
+            "Willy": {
+                "banned": false,
+                "banDate": "none",
+                "status": "verificated"
+            },
+            "theRealKote": {
+                "banned": false,
+                "banDate": "none",
+                "status": "verificated"
+            },
             "nikit24": {
                 "banned": true,
                 "banDate": "none",
