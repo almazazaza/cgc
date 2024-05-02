@@ -16,6 +16,11 @@
                 "banDate": "none",
                 "status": "developer"
             },
+            "bukayo": {
+                "banned": false,
+                "banDate": "none",
+                "status": "developer"
+            },
             "Kitik": {
                 "banned": false,
                 "banDate": "none",
