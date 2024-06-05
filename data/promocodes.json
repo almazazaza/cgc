@@ -121,6 +121,32 @@
                 "count": 15,
                 "date": "none"
             }
+            ,
+            "PerkClicker": {
+                "item": "perk",
+                "name": "clicker",
+                "count": 150,
+                "date": "none"
+            }
+            ,
+            "PerkAuto": {
+                "item": "perk",
+                "name": "autoclicker",
+                "count": 150,
+                "date": "none"
+            },
+            "CoinsCG": {
+                "item": "coin",
+                "name": "chickengun",
+                "count": 52498649,
+                "date": "none"
+            },
+            "CoinsSnow": {
+                "item": "coin",
+                "name": "snowflake",
+                "count": 3000,
+                "date": "none"
+            }
         }
     ]
 }
