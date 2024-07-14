@@ -146,6 +146,12 @@
                 "name": "snowflake",
                 "count": 3000,
                 "date": "locked"
+            },
+            "bukayoMakeGiveaway": {
+                "item": "perk",
+                "name": "clickerhand",
+                "count": 50,
+                "date": "none"
             }
         }
     ]
