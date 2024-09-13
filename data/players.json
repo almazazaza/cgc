@@ -80,6 +80,11 @@
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
+            },
+            "sigmame": {
+                "banned": true,
+                "banDate": "none",
+                "status": "banned"
             }
         }
     ]
