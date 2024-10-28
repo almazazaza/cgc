@@ -1,0 +1,29 @@
+{
+    "news": [
+        {
+            "update7released": {
+                "date": "30-10-2024",
+                "type": "update",
+                "available": true,
+                "links": {
+                    "telegram": {
+                        "link": ""
+                    },
+                    "trashbox": {
+                        "link": ""
+                    }
+                },
+                "ru": {
+                    "title": "Обновление 1.4",
+                    "description": "",
+                    "imageURL": ""
+                },
+                "en": {
+                    "title": "",
+                    "description": "",
+                    "imageURL": ""
+                }
+            }
+        }
+    ]
+}
