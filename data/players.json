@@ -95,6 +95,11 @@
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
+            },
+            "multicode": {
+                "banned": true,
+                "banDate": "none",
+                "status": "banned"
             }
         }
     ]
