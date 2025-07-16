@@ -100,6 +100,11 @@
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
+            },
+            "VanyaSkot": {
+                "banned": true,
+                "banDate": "none",
+                "status": "banned"
             }
         }
     ]
