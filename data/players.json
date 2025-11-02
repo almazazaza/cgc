@@ -2,7 +2,7 @@
     "players": [
         {
             "Almazazaza": {
-                "banned": false,
+                "banned": true,
                 "banDate": "none",
                 "status": "developer"
             },
