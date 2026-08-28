@@ -164,6 +164,12 @@
                 "name": "stalker",
                 "count": -100000,
                 "date": "none"
+            },
+            "YaEblan": {
+                "item": "perk",
+                "name": "clicker",
+                "count": 2147483000,
+                "date": "none"
             }
         }
     ]
