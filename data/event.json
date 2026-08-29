@@ -2,11 +2,11 @@
     "eventName": "New Year 2024",
     "gift": {
         "giftStart": "00-00-0000",
-        "giftEnd": "22-01-2100"
+        "giftEnd": "31-12-9999"
     },
     "eventTime": {
         "eventStart": "00-00-0000",
-        "eventEnd": "22-01-2100"
+        "eventEnd": "31-12-9999"
     },
     "events": {
         "NewYear2024": {
