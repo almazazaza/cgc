@@ -120,7 +120,12 @@
                 "banned": true,
                 "banDate": "none",
                 "status": "banned"
-            }
+            },
+            "Ogurchik69k2": {
+                "banned": false,
+                "banDate": "none",
+                "status": "banned"
+            },
         }
     ]
 }
