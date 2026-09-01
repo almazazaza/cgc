@@ -125,6 +125,11 @@
                 "banned": false,
                 "banDate": "none",
                 "status": "banned"
+            },
+            "OgurchikEbaniyDaun": {
+                "banned": true,
+                "banDate": "none",
+                "status": "verificatwd"
             }
         }
     ]
