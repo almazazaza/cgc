@@ -23,8 +23,8 @@
         "Halloween2024": {
             "eventName": "Halloween 2024",
             "eventTime": {
-                "eventStart": "31-10-2024",
-                "eventEnd": "21-11-2024"
+                "eventStart": "00-00-0000",
+                "eventEnd": "31-12-9999"
             }
         }
     }
